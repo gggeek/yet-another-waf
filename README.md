@@ -1,5 +1,3 @@
-# Yet Another Web API Firewall
+# We have moved!
 
-## Work In Progress
-
-Stay Tuned!
+Please head on to https://github.com/tanowaf/Yet-Another-WAF
